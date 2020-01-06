@@ -1,4 +1,4 @@
-# programming-language-fundamentals-student
+# Programming Language Fundamentals
 
 Topics covered:
 > Git
