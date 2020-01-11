@@ -1,6 +1,12 @@
 # Programming Language Fundamentals
 
-Topics covered:
+## Task
+Understand the fundamentals of Programming Language Concepts.
+
+## Output
+The repository contains work based on the topics below.
+
+## Criteria
 > Git
 
 > Statements & Expressions
@@ -38,3 +44,9 @@ Topics covered:
 > Subtyping
 
 > Inheritance
+
+## Tech Stack
+> Scala
+
+> Scheme
+
